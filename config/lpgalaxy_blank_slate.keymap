@@ -63,7 +63,7 @@
  &kp TAB    &kp Q      &kp W      &kp F       &kp P          &kp B          &kp J            &kp L          &kp U       &kp Y      &kp SEMI      &kp BKSP
  &kp LCTRL  &kp A      &kp R      &kp S       &kp T          &kp G          &kp M            &kp N          &kp E       &kp I      &kp O         &kp QUOT
  &kp LSHFT  &kp Z      &kp X      &kp C       &kp D          &kp V          &kp K            &kp H          &kp COMMA   &kp DOT    &kp FSLH      &kp GRAVE
- &mo BT_L   &kp CAPS   &kp LGUI   &kp LALT          &lt OTHER_L ENTER              &lt OTHER_L SPACE        &kp MINUS   &kp EQUAL  &kp BSLH      &none
+ &mo BT_L   &kp CAPS   &kp LGUI   &kp LALT          &lt OTHER_L ENTER              &lt OTHER_L SPACE        &kp MINUS   &kp EQUAL  &kp BSLH      &studio_unlock
             >;
         };
 
